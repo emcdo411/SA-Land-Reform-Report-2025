@@ -1,7 +1,3 @@
-Here’s a more concise, technical, and visually compelling version of your `README.md`:
-
----
-
 # 🇿🇦 South Africa Land Reform & Inequality Dashboard (2025)
 
 **An interactive Shiny dashboard** exploring farm attacks, land reform, and economic inequality in South Africa (2023–2025). Built for stakeholders including **UNICEF**, the **United Nations**, and the **Council on Foreign Relations**, the app offers data-driven insights into post-apartheid challenges.
